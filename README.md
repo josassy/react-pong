@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# react-pong
+A super fun and awesome app made for learning React.js. Nothing exists yet.
+
 ## Available Scripts
 
 In the project directory, you can run:
